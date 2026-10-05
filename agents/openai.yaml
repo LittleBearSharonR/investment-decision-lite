@@ -1,0 +1,4 @@
+interface:
+  display_name: "精简投研与仓位建议"
+  short_description: "用更少Token完成股票研究与加仓、持有、卖出判断"
+  default_prompt: "使用 $investment-decision-lite 研究这只证券，并结合我的持仓给出加仓、持有或卖出建议。"
